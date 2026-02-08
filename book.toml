@@ -1,0 +1,7 @@
+[book]
+title = "Brax's Shadowrun 5e"
+authors = []
+language = "en"
+
+[output.html.fold]
+enable=true
