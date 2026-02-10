@@ -1,8 +1,11 @@
 # Summary
 - [Main](./main.md)
 - [Attributes](./Attributes.md)
+- [Skills](./Skills.md)
 - [Gameplay Mechanics](./Gameplay_Mechanics.md)
 - [Combat](./Combat.md)
+- [Healing](./Healing.md)
+- [Movement](./Movement.md)
 - [Equipment](./Equipment.md)
 - [Metatypes](./Metatypes.md)
 - [Qualities](./Qualities.md)
