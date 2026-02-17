@@ -44,109 +44,108 @@ Commlinks are universal communication devices; they’re used by everyone all th
 
 > NOTES - Add read Commlink model entries here, maybe add as a table as well?
 
-### **Commlink Models – Cheap but Functional**
+### Models
 
-*Meta Link   (Device Rating 1)     100¥ Legal*
+#### **Cheap but Functional**
 
-(Analyse 1, Browse 1, Command 1, Edit 1)
+|Name|Device Rating|Analyse|Browse|Command|Edit|
+|--|:--:|:--:|:--:|:--:|:--:|
+|**Meta Link**|1|1|1|1|1|
 
+**Meta Link**
 A small, flat, rectangular commlink about fifteen centimetres long and matte grey, completely bland other than a small manufacturer’s logo. The standard buy on an extreme budget or for a quick burner comm.
 
-Basic Persona/Theme/Device Icon: Plain human / Cube structures / Cube with human silhouettes.
+>**Basic Persona/Theme/Device Icon:** Plain human / Cube structures / Cube with human silhouettes.
 
-### **Commlink Models – Just the Basics**
+#### **Just the Basics**
 
-*Microtronica Azteca Raptor (Device Rating 2)     500¥ Legal*
+|Name|Device Rating|Analyse|Browse|Command|Edit|Cost|Availability|
+|--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|Microtronica Azteca Raptor|2|1|2|2|2|500¥|Legal|
+|Sony Cherubim|2|2|2|1|2|500¥|Legal|
 
-(Analyse 1, Browse 2, Command 2, Edit 2)
-
+**Microtronica Azteca Raptor**  
 Crisp edges and sharp lines make this commlink stand out, while its brown and green colouring match the electronic theme.
 
-Basic Persona/Theme/Device Icon: Hawkman / Small forest / Bird’s nest.
+>**Basic Persona/Theme/Device Icon:** Hawkman / Small forest / Bird’s nest.
 
-*Sony Cherubim   (Device Rating 2)     500¥ Legal*
-
-(Analyse 2, Browse 2, Command 1, Edit 2)
+**Sony Cherubim** 
 
 This commlink features easy grip edges that form the signature cloud shape, combined with its white colour, making this device well known.
 
-Basic Persona/Theme/Device Icon: Angel / Cloud heaven / Ornate heavenly gates.
+>**Basic Persona/Theme/Device Icon: Angel / Cloud heaven / Ornate heavenly gates**.
 
-### **Commlink Models – Nice Name Brand**
+#### **Nice Name Brand**
 
-*Sony Seraphim   (Device Rating 3)     1,000¥ Legal*
+|Name|Device Rating|Analyse|Browse|Command|Edit|Cost|Availability|
+|--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|Sony Seraphim|3|3|2|1|2|1000¥|Legal|
+|Renraku Sensei|3|2|2|1|3|1000¥|Legal|
+|Matrix System GridGopher|3|2|3|1|2|1000¥|Legal|
+|Erika Elite|4|2|3|2|2|2500¥|Legal|
+|FTL Quark|4|3|2|2|2|2500¥|Legal|
+|Opal Scarab|4|2|2|2|3|2500¥|Legal|
+|Umbrella Aegis|4|2|2|3|2|2500¥|Legal|
 
-(Analyse 3, Browse 2, Command 1, Edit 2)
+**Sony Seraphim**   
 
 This commlink features easy grip edges that form the signature cloud shape, combined with its white colour, making this device well known.
 
-Basic Persona/Theme/Device Icon: Angel / Cloud heaven / Ornate heavenly gates.
+>Basic Persona/Theme/Device Icon: Angel / Cloud heaven / Ornate heavenly gates.
 
-*Renraku Sensei   (Device Rating 3)     1,000¥ Legal*
-
-(Analyse 2, Browse 2, Command 1, Edit 3)
+**Renraku Sensei**   
 
 With easy-grip ridges reminiscent of a sword hilt, this commlink is marketed as the data weapon of the modern-day wage-slave who imagines themselves to be more than they really are.
 
-Basic Persona/Theme/Device Icon: Kimono-clad samurai / Dojo / Ornate paper structure.
+>Basic Persona/Theme/Device Icon: Kimono-clad samurai / Dojo / Ornate paper structure.
 
-*Matrix Systems GridGopher (Device Rating 3)     1,000¥ Legal*
-
-(Analyse 2, Browse 3, Command 1, Edit 2)
+**Matrix Systems GridGopher**   
 
 While its grip and shape aren’t ergonomic, and the standard colour is dirt brown, this unit sold surprisingly well due to its specialisation in Matrix browsing.
 
 Basic Persona/Theme/Device Icon: Humanoid rodent / Gopher hole / Hole in a dirt mound.
 
-*Erika Elite   (Device Rating 4)     2,500¥ Legal*
-
-(Analyse 2, Browse 3, Command 2, Edit 2)
+**Erika Elite**
 
 No basic rectangular shape here – the soft, curving lines of this commlink are made to fit comfortably in the hand, while the colour range ensures that it can match your latest outfit, handbag or shoes.
 
-Basic Persona/Theme/Device Icon: Fashion model / Dining room / Crystal key in a fancy lock.
+>Basic Persona/Theme/Device Icon: Fashion model / Dining room / Crystal key in a fancy lock.
 
-*FTL Quark   (Device Rating 4)     2,500¥ Legal*
-
-(Analyse 3, Browse 2, Command 2, Edit 2)
+**FTL Quark**
 
 The flexi-viewer that allows curved visuals that follow the curve of an arm when strapped to the wrist is the main point of difference that drives up sales of the FTL Quark.
 
-Basic Persona/Theme/Device Icon: Astronaut / Atomic nucleus / Swirling atom.
+>Basic Persona/Theme/Device Icon: Astronaut / Atomic nucleus / Swirling atom.
 
-*Opal Scarab   (Device Rating 4)     2,500¥ Legal*
-
-(Analyse 2, Browse 2, Command 2, Edit 3)
-
+**Opal Scarab**   
 Rather than a simple oval shape, the designers created a work of art in looks like a large opalescent scarab grasping the wrist of the bearer.
 
-Basic Persona/Theme/Device Icon: Mummy / Egyptian Tomb / Pyramid.
+>Basic Persona/Theme/Device Icon: Mummy / Egyptian Tomb / Pyramid.
 
-*Umbrella Aegis   (Device Rating 4)     2,500¥ Legal*
-
-(Analyse 2, Browse 2, Command 3, Edit 2)
+**Umbrella Aegis**  
 
 An expanding circular shape that looks like a top-down view of an expanding umbrella, this design was quickly copied by competitors to make unfolding flower and lily-pad variations.
 
-Basic Persona/Theme/Device Icon: Woman in a red dress / Research Lab / Black and Red Umbrella.
+>Basic Persona/Theme/Device Icon: Woman in a red dress / Research Lab / Black and Red Umbrella.
 
-### **Commlink Models – Do you really need all that?**
+#### Do you really need all that?**
 
-*Novatech NetNinja  (Device Rating 5)     3,500¥ Legal*
+|Name|Device Rating|Analyse|Browse|Command|Edit|Cost|Availability|
+|--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|Novatech NetNinja|5|3|3|3|2|3500¥|Legal|
+|Sony Ophanim|6|3|3|2|3|5000¥|Legal|
 
-(Analyse 3, Browse 3, Command 3, Edit 2)
+**Novatech NetNinja**  
 
 While the marketing has drawn large sales from the young, trendy and desperate to be hit, those who examine the functionality question whether the price tag is justified.
 
-Basic Persona/Theme/Device Icon: Ninja / Rice paper home / Spinning shuriken.
+>Basic Persona/Theme/Device Icon: Ninja / Rice paper home / Spinning shuriken.
 
-*Sony Ophanim   (Device Rating 6)     5,000¥ Legal*
-
-(Analyse 3, Browse 3, Command 2, Edit 3)
+**Sony Ophanim**
 
 This commlink features easy grip edges that form the signature cloud shape, combined with its white colour, making this device well known.
 
-Basic Persona/Theme/Device Icon: Angel / Cloud heaven / Ornate heavenly gates.
+>Basic Persona/Theme/Device Icon: Angel / Cloud heaven / Ornate heavenly gates.
 
 ## **Software**
 
@@ -308,49 +307,67 @@ You have a monthly pass to access public transportation in your city. This inclu
 
 In 2075, you’d have to be crazy to consider walking outside with just a tee-shirt and jeans, even in some of the nicer parts of the Sprawl. You need protection: from the acid rain, from air pollution, from ultraviolent radiation from the completely fragged ozone layer and, of course, from random street violence.
 
-#### **Standard Clothing**
 
-*Armoured Casualwear   Armour 6   450¥  Legal*
+|Name|Armor Value|Cost|Availability|
+|--|--|-|--|
+|**Starndard Clothing**| | | |
+|Armoured Casualwear|6|450¥|Legal|
+|Armoured Team Jersey|6|750¥|Legal|
+|SynthLeather Jacket|6|750¥|Legal|
+|Armoured Jacket|12|1,000¥|Legal|
+|Armoured Raincoast|9|2,000¥|Legal|
+|AthLeisure Secureware|6|500¥|Legal|
+|AthLeisure Secureware, Shockless|6|2,000¥|Legal|
+|Fashional Fur Coat|0|2,400¥|Legal|
+|Feedback Armoured Casualwear|6|950¥|Legal|
+|Poncho - Acid-Rain Resistant|0|350¥|  Legal|
+|Urban Explorer Jumpsuit| 8 |  800¥ | Legal|
+|**Conceable Clothing**| | | |
+|Armour Vest|9|  | 500¥ | Legal|
+|Form-Fitting Body Armour| 10|   2,600¥|  Legal|
+
+
+**Armoured Casualwear**   
 
 Lightweight ballistic fibre weave makes these garments almost impossible to detect as armour. It doesn’t provide as much protection as real armour, but it’s available in a wide variety of styles.
 
-*Armoured Team Jersey   Armour 6   750¥  Legal*
+**Armoured Team Jersey**   
 
 Because you never know whose turf you’re tailgating in. Available for most sports but most popular with urban brawl teams that traditionally have the rowdiest fans (read: most likely to riot). +1 Social limit for tests involving fans. -1 Social limit for tests involving fans of rival teams.
 
-*Synthleather Jacket   Armour 4   200¥  Legal*
+**Synthleather Jacket**
 
 This waist-length jacket never goes out of style and even offers a modicum of protection. Just don’t expect it to stop bullets.
 
-*Armoured Jacket   Armour 12   1,000¥  Legal*
+**Armoured Jacket**  
 
 The most popular armour solution on the streets comes in all styles imaginable. If offers good protection without catching too much attention. But don’t think of wearing one to a dinner party. While the thick jacket protects the body’s core, remember that being shot in the legs may mean you can’t escape and may end up double-tapped.
 
-*Armoured Raincoat   Armour 9   2,000¥  Legal*
+**Armoured Raincoat**     
 
 Waterproof and ugly yellow, this raincoat protects against more than getting wet with its concealed armour. Gain a +6 dice pool bonus against acid rain and any contact-vector chemical and toxin attacks. You do gain a +2 Concealability modifier to items completely hidden underneath.
 
-*Athleisure Securware   Armour 6   550¥  Legal*
+**Athleisure Securware**
 
 Keeping a well-toned ass from getting shot, a combination of spiderweave threads and ballistic fibre weave provide flexible and fashionable protection that fits in many casual social situations. Crafted with biofabrics, athleisureware provides information wirelessly on the wearer’s general health: body temperature, pulse rate, blood pressure and so on. Don’t forget the in-built music player.
 
-*Athleisure Securware – Shockless Armour 6   2,000¥  Legal*
+**Athleisure Securware – Shockless**
 
 In addition to the usual benefits of athleisure securware, this upgraded line also provides strong resistance to tasers and shocks. (The wearer gains a +6 dice pool bonus against electrical attacks.)
 
-*Fashionable Fur Coat   Armour 0   2,400¥  Legal*
+**Fashionable Fur Coat**
 
 Thermal fibres and heat-retentive materials protect the wearer against Cold damage. Gain a +6 dice pool bonus against cold attacks. You do gain a +2 Concealability modifier to items completely hidden underneath.
 
-*Feedback Armoured Casualwear Armour 6   950¥  Legal*
+**Feedback Armoured Casualwear**
 
 This haptic clothing allows for a tactile component to an augmented reality experience. Lightweight ballistic fibre weave makes these garments almost impossible to detect as armour. It doesn’t provide as much protection as real armour, but it’s available in a wide variety of styles.
 
-*Poncho - Acid-Rain Resistant  Armour 0   350¥  Legal*
+**Poncho - Acid-Rain Resistant**
 
 Water-resistant, non-porous, impermeable and with a coating of neutralising agents protect you against acid rain and any contact-vector chemical and toxin attacks (add 1 to those resistance tests). However, it’s rather unfashionable – suffer a -1 Social Limit modifier while it is worn. You do gain a +2 Concealability modifier to items completely hidden underneath.
 
-*Urban Explorer Jumpsuit  Armour 8   800¥  Legal*
+**Urban Explorer Jumpsuit**
 
 Designed for couriers, athletes and freerunners, these colourful jumpsuits are well ventilated and breathable but surprisingly protective with lightweight densiplast and liquid reactive armour. Urban explorer jumpsuits feature a built-in music player and biomonitor.
 

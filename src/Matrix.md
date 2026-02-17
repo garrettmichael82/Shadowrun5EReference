@@ -1,29 +1,28 @@
 
-**<a name="_toc218024809"></a>THE MATRIX**\
+# **THE MATRIX**
 
-==========================================
 
-### **What is the Matrix?**
+## **What is the Matrix?**
 
 We use it every day to read out email, pay our bills, talk to our friends and loved ones. It monitors our money, handles our utilities and manages the traffic on our streets. Billons of people use it constantly, from the hungry family in Redmond to the CEO in Neo-Tokyo and everyone in between. It is the Matrix, the digital world within a world made of fibre-optic cables, networks and more data and computing power than has ever existed in the history of the planet. A record that exists today so it can be broken tomorrow.
 
-### **Wireless World**
+## **Wireless World**
 
 The paradox of the Matrix is this: to be an ace hacker, you need to understand it – but no one really understands it. Like so many things, though, the real key is to know more and be better than the next guy. So, let’s get you started with a quick overview of the Matrix experience.
 
-### **The Local Mesh**
+## **The Local Mesh**
 
 This is the part of the Matrix that relies on device-to-device connections and is called the **local mesh** or sometimes the **lower grid**. The extreme density of devices in a 2075 city, combined with the ability to seamlessly pass traffic from device to device, can get your signal where it needs to go. The local mesh has a strictly limited range: too many hops, too much distance or too much interference and the signal degrades and becomes useless. Fortunately, for a legitimate user, their network traffic only needs to reach an **uplink node**, so this is rarely an issue. Any two or more Matrix devices within range of each other can form a local mesh, even if they cannot route a signal out to the wider Matrix. They will still be able to communicate with themselves as normal.
 
-### **Uplink Nodes**
+## **Uplink Nodes**
 
 When you want to communicate with a device that’s outside local mesh range, first you need an **uplink node**. These are scattered around major metropolitan areas. Your device sends traffic along the local mesh until it reaches the nearest or most convenient uplink node. Uplinks serve as the onramps to the rest of the Matrix; they bridge your traffic over to the backbone. Uplink nodes are sometimes called beanstalks by deckers, because they lead to the clouds.
 
-### **The Backbone**
+## **The Backbone**
 
 The **backbone** or the **upper grid**, is the planet-sized interconnected network of fibre cables, satellites, microwave and visible-laser point-to-point communications and other bleeding-edge-tech ways of getting 1s and 0s from A to B. Once your traffic is on the backbone, distance is no object and bandwidth is functionally infinite. Security on uplink nodes is fierce and traffic on the backbone is routinely subjected to deep packet inspection.
 
-### **Commlinks**
+## **Commlinks**
 
 Commlinks are the most visible part of the Matrix – the device most commonly associated with it in people’s minds. They are analogous to modern-day smartphones and often take the form of a pocket-sized slab covered in a touchscreen (although they can be much smaller if the user forgoes the screen).
 
@@ -33,15 +32,14 @@ DNI gives the user a limited amount of mental control directly over the device, 
 
 AR means the commlink’s output – mostly visual and audio, some tactile – is projected directly into the user’s consciousness. They see pop-up windows floating in their vision, hear sounds overlaid with the real world, feel the weight and texture of virtual “objects” they touch. Each distinct element of an augmented reality user interface is called an **augmented reality object** (ARO), pronounced “arrow”. AROs can come from your commlink itself, like a messaging window for a control palette. They can be broadcast from nearby devices, like a restaurant displaying a holographic menu outside its door or a friend showing you a selfie they took. Or they can be sent to you from items you are carrying, such as a smartgun displaying remaining ammunition count in a discreet window in the corner of your eye. Because pure DNI control requires mental effort, less hardcore users sometimes fall back to either physical controls or (more often) AROs displaying control surfaces. These are less tiring and can be more precise when very delicate control is needed. User interface AROs accessed via DNI have a tactile component, so the user feels like they are interacting with real physical objects that have weight, texture and temperature.
 
-### **PANs**
+## **PANs**
 
 Most individuals have multiple electronic devices on them at once and having icons for each one show up would provide too much visual clutter in the Matrix. Often, what shows up instead is an icon representing an individual’s personal area network. This icon often looks similar to the physical device that serves as master for the network, such as a commlink or cyberdeck, but individuals will sometimes choose a design or logo that means something to them (such as sports team logos, Concrete Dreams album covers or corporate designs). Some devices are not merged into the single **PAN** icon; if an individual is carrying a wireless-enabled gun – or another wireless device that might kill you – if may show up separately so that it can be identified rapidly. Unless, of course, the user has gone to the trouble to hide that icon, but that’ll be covered later.
 
 Devices can be slaved to a commlink or cyberdeck. The group consisting of slaved devices plus the master commlink or cyberdeck is called a personal area network, or PAN.
 
-**<a name="_toc218024810"></a>WIRELESS DEVICES**\
+## **WIRELESS DEVICES**
 
-================================================
 Wireless devices are rated for their power and efficiency based on a number of factors and well as having information about their current use status. Below are the ratings and statuses that a wireless device may have.
 
 **Device Rating**: The device rating is a generic rating for standard devices that don’t have more detailed ratings listed.
@@ -68,17 +66,17 @@ Wireless devices are rated for their power and efficiency based on a number of f
 |**Cold-Sim**|Response + Intuition|3D6|-|
 |**Hot-Sim**|Response + Intuition|4D6|+2 bonus to Matrix actions|
 
-#### **Matrix Condition Monitor**
+## **Matrix Condition Monitor**
 
 The Matrix Condition Monitor measures the amount of Matrix damage an icon can take. It typically has a number of boxes equal to 8 + (System / 2, rounded up). An icon crashes when all the boxes on its Matrix Condition Monitor are filled. If your persona icon crashes, you are immediately disconnected from the Matrix, as with the Jack Out action. If you were operating in VR, you suffer dumpshock when this happens.
 
-#### **Noise**
+## **Noise**
 
 Noise is the static of the wireless Matrix. There are a lot of things than can mess with your signal, like nearby electronics, natural and artificial dampening and even cosmic background radiation. It may seem as if traffic in the Matrix is instantaneous, but ask anyone who has played an online game with someone a few continents away – there is a noticeable delay when compared to playing someone next door. When decisions are being made in the blink of an eye, every speed difference matters. The farther you are away from an icon in real life, the harder it is to communicate with it, whether your intentions are harmful or benign.
 
 The most common source of noise is distance from your target, but there are other causes. There are also spam zones and static zones to deal with. A spam zone has so much traffic (often commercial in nature) that everything gets processed slower. Static zones are areas with either a lot of electromagnetic blockage (like an underground tunnel, labyrinth of sewer or ruins of a steel office building) or far away from civilisation.
 
-#### **Signal Rating Table**
+## **Signal Rating Table**
 
 |**Rating**|**Range**|**Examples**|
 | :- | :- | :- |
@@ -93,7 +91,7 @@ The most common source of noise is distance from your target, but there are othe
 |**8**|100 km|Flight radar, dedicated ground surveillance radar|
 |**9**|400 km|Maritime/naval radar, commercial AM/FM radio|
 
-### **Device Modes**
+## **Device Modes**
 
 Devices can run in one of three modes: Active, Passive and Hidden. You can change the mode of your commlink (and the rest of your PAN) as a Bonus Action.
 
@@ -105,45 +103,44 @@ Devices can run in one of three modes: Active, Passive and Hidden. You can chang
 
 While in Hidden Mode, you suffer a -2 dice pool penalty on all Matrix actions due to the processing power needed to cover your tracks.
 
-### <a name="_hlk205062386"></a>**Matrix <a name="_hlk205062380"></a>Actions for the Non-Hacker**
+## **Matrix Actions for the Non-Hacker**
 
-**Log On**: Simple Action. No Test. You access a node and your icon (persona) appears there. This requires no test, as long as you have proper authentication to an account (such as a passcode) or a hacked account. It should go without saying, but you also need a connection to the node’s device, either with a wired connection or a wireless connection. You can’t log on if have no way to get online.
+- **Log On**: Simple Action. No Test. You access a node and your icon (persona) appears there. This requires no test, as long as you have proper authentication to an account (such as a passcode) or a hacked account. It should go without saying, but you also need a connection to the node’s device, either with a wired connection or a wireless connection. You can’t log on if have no way to get online.
 
-**Switch to AR/VR**: Simple Action. You switch your perception from AR to VR or vice versa. Not that switching to VR causes your body to go limp, so do not do so in dangerous places. If you switch from VR to AR, you might lose Initiative.
+- **Switch to AR/VR**: Simple Action. You switch your perception from AR to VR or vice versa. Not that switching to VR causes your body to go limp, so do not do so in dangerous places. If you switch from VR to AR, you might lose Initiative.
 
-**Send Message**: Bonus Action. No Test. You send a text or audio message the length of a short sentence, an image or a file via the Matrix to a use whose commcode you have. If you’re using the Matrix through a DNI, you can send longer and more complicated messages. You can also use this action to open a live feed to one or more recipients, using and digital recording devices you have.
+- **Send Message**: Bonus Action. No Test. You send a text or audio message the length of a short sentence, an image or a file via the Matrix to a use whose commcode you have. If you’re using the Matrix through a DNI, you can send longer and more complicated messages. You can also use this action to open a live feed to one or more recipients, using and digital recording devices you have.
 
-**Matrix Search**: Extended Action. Computer + Intuition [Browse Program Rating] (\*). You search the Matrix for information about a topic. The time it takes and the threshold of the test depend on the general availability of the information in question and the area being searched, respectively. Any hits above and beyond the threshold can be used to reduce the search time. Divide the base time by the net hits to determine the reduction. If you fail this test, you still spend the full base time looking.
+- **Matrix Search**: Extended Action.<span style="color: red;"> Computer + Intuition [Browse Program Rating] (\*)</span>. You search the Matrix for information about a topic. The time it takes and the threshold of the test depend on the general availability of the information in question and the area being searched, respectively. Any hits above and beyond the threshold can be used to reduce the search time. Divide the base time by the net hits to determine the reduction. If you fail this test, you still spend the full base time looking.
 
-Some information is protected and kept secret, stored in a host that is not publicly accessible. Finding this information usually requires you to find and enter the hosts in which the data is hidden.
+> Some information is protected and kept secret, stored in a host that is not publicly accessible. Finding this information usually requires you to find and enter the hosts in which the data is hidden.
 
-**Matrix Perception**: Simple Action. Computer + Intuition [Analyse Program Rating]. You hits determine how successful the examination is. If your target is running a Stealth program, it becomes an Opposed Test, with the target rolling Logic + Electronic Warfare (+Stealth program rating) (or Firewall + Stealth for devices or nodes) as the opposing dice pool. The hits from this test reduce your hits and consequently the amount of information you gather. If you garner no net hits, the target’s icon has melded into the background of data traffic, escaping your notice.
+- **Matrix Perception**: Simple Action. Computer + Intuition [Analyse Program Rating]. You hits determine how successful the examination is. If your target is running a Stealth program, it becomes an Opposed Test, with the target rolling Logic + Electronic Warfare (+Stealth program rating) (or Firewall + Stealth for devices or nodes) as the opposing dice pool. The hits from this test reduce your hits and consequently the amount of information you gather. If you garner no net hits, the target’s icon has melded into the background of data traffic, escaping your notice.
 
-You may also use Matrix Perception to determine whether someone has tapped Matrix traffic through the node or to detect some of the tricks that sprites can perform.
+> You may also use Matrix Perception to determine whether someone has tapped Matrix traffic through the node or to detect some of the tricks that sprites can perform.
 
-**Control Device**: Complex Action. No Test. You control a device through the Matrix, using your Command Program like a remote control or video game controller. This can be used in a variety of ways from commanding your soykaf machine to start brewing a pot before you get out of bed to firing a drone-mounted rifle. The complexity of the device you can control and the complexity of the commands you send are limited by your Command program rating. In the hierarchy of control, this is Remote Control. If it isn’t your device, you need to gain access permissions first.
+- **Control Device**: Complex Action. No Test. You control a device through the Matrix, using your Command Program like a remote control or video game controller. This can be used in a variety of ways from commanding your soykaf machine to start brewing a pot before you get out of bed to firing a drone-mounted rifle. The complexity of the device you can control and the complexity of the commands you send are limited by your Command program rating. In the hierarchy of control, this is Remote Control. If it isn’t your device, you need to gain access permissions first.
 
-**Run Program**: Complex Action. You run a program that is loaded in a device to which you have access and the appropriate privileges. This changes the program’s status from loaded to running. Programs must be running in order to be used.
+- **Run Program**: Complex Action. You run a program that is loaded in a device to which you have access and the appropriate privileges. This changes the program’s status from loaded to running. Programs must be running in order to be used.
 
-**Deactivate Program**: Simple Action. You switch a program’s status from running to loaded.
+- **Deactivate Program**: Simple Action. You switch a program’s status from running to loaded.
 
-**Edit File**: Variable Action. Computer + Logic [Edit Program Rating]. The threshold is based on the extent, quality and complexity of the edits being made. Continuous editing of a device’s output requires the expenditure of a Simple Action every Initiative Phase for the duration. Edit allows you to create, change or delete files. A Complex Action is required to alter one detail of a file: about a sentence of text or a detail of an image or about a second of video or audio.
+- **Edit File**: Variable Action. Computer + Logic [Edit Program Rating]. The threshold is based on the extent, quality and complexity of the edits being made. Continuous editing of a device’s output requires the expenditure of a Simple Action every Initiative Phase for the duration. Edit allows you to create, change or delete files. A Complex Action is required to alter one detail of a file: about a sentence of text or a detail of an image or about a second of video or audio.
 
-**Encrypt**: Complex Action. Software + Logic [Encrypt Program Rating]. You encrypt a file, set of files, node or communication link. You also choose a passcode that you or another user can use to decrypt the file.
+- **Encrypt**: Complex Action. Software + Logic [Encrypt Program Rating]. You encrypt a file, set of files, node or communication link. You also choose a passcode that you or another user can use to decrypt the file.
 
-**Decrypt**: Complex Action. If you have the key to a particular encryption, you decrypt it with this action. If you use this on a file, the file becomes decrypted.
+- **Decrypt**: Complex Action. If you have the key to a particular encryption, you decrypt it with this action. If you use this on a file, the file becomes decrypted.
 
-**Transfer Data**: Simple Action. No Test. You transfer a file or set of files from one node to another. Most transfers last until the end of the current Combat Turn; the connection speeds of the Matrix are fast enough that only files of epic size take longer than normal.
+- **Transfer Data**: Simple Action. No Test. You transfer a file or set of files from one node to another. Most transfers last until the end of the current Combat Turn; the connection speeds of the Matrix are fast enough that only files of epic size take longer than normal.
 
-**Terminate Data Transfer**: Bonus Action. You terminate a data transfer you initiated.
+- **Terminate Data Transfer**: Bonus Action. You terminate a data transfer you initiated.
 
-**Log Off**: Simple Action. You log off the node and close your connection to a host.
+- **Log Off**: Simple Action. You log off the node and close your connection to a host.
 
-**Reboot**: Complex Action. You initiate a reboot of a device you have appropriate privileges to do so (often an admin account). All programs stop running and all subscriptions are terminated and anyone who is still running their persona on the device is severed from the Matrix, suffering dumpshock if they are in VR.
+- **Reboot**: Complex Action. You initiate a reboot of a device you have appropriate privileges to do so (often an admin account). All programs stop running and all subscriptions are terminated and anyone who is still running their persona on the device is severed from the Matrix, suffering dumpshock if they are in VR.
 
-**DECKING**\
+## **DECKING**
 
-===========
 A decker is someone who uses a cyberdeck (hence the name) to break the rules of the Matrix. A cyberdeck – usually just called a deck – is like a commlink with some extra features. It is a bit bigger than a commlink, about the size of a small tablet or a spiral-bound notebook. Its specialised functions are questionable legality make it far more expensive than ordinary commlinks. The cyberdeck has advanced electronics and firmware based on reverse-engineered protocols used in Matrix security. In a short, a cyberdeck is the tool you need to be a decker.
 
 A deck can perform all the functions of a commlink, but its primary purpose is hacking in the Matrix. Cyberdecks have a built-in sim module because they are so often used in VR, so a decker only needs a datajack or other DNI device to make that connection, instead of needing the full sim implant.
